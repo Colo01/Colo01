@@ -32,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Colo01&show_icons=true&theme=radical" alt="Colo's GitHub Stats">
 </div>
 <div>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 </div>
 <div align="center" margin-top: 50px;>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
