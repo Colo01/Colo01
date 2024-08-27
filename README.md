@@ -1,3 +1,4 @@
+<img src="banner.png"/>
 <div align="center">
   <h1>🌟 Welcome to Colo's GitHub Profile! 🌟</h1>
 </div>
