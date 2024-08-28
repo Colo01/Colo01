@@ -4,7 +4,7 @@
 <div align="center">
   <h1 style="color: #4A90E2;">👨‍💻 Pablo Ariel Calderon - Colo 👨‍💻</h1>
   <div align="center">
-<img src="banner.png" width="700"/>
+<img src="banner.png" width="700" height="400"/>
 </div>
   <p style="font-size: 20px;">🎂 22 years old | 🎓 Systems Engineering Student</p>
   <p>📚 Currently in my fourth year at <strong>Universidad Adventista del Plata</strong></p>
