@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner.png" width="400"/>
+<img src="banner.png" width="600"/>
 </div>
 <div align="center">
   <h1>🌟 Welcome to Colo's GitHub Profile! 🌟</h1>
