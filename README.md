@@ -2,14 +2,13 @@
   <h1>🌟 Welcome to Colo's GitHub Profile! 🌟</h1>
 </div>
 <div align="center">
-<img src="banner.png" width="700"/>
-</div>
-<div align="center">
   <h1 style="color: #4A90E2;">👨‍💻 Pablo Ariel Calderon - Colo 👨‍💻</h1>
   <p style="font-size: 20px;">🎂 22 years old | 🎓 Systems Engineering Student</p>
   <p>📚 Currently in my fourth year at <strong>Universidad Adventista del Plata</strong></p>
 </div>
-
+<div align="center">
+<img src="banner.png" width="700"/>
+</div>
 <div style="margin-top: 20px;">
   <h2 style="color: #FF6F61;">🔍 About Me</h2>
   <p>Hi! I'm Colo, a passionate and dedicated programmer with a strong foundation in various technologies. I'm constantly exploring new domains and currently focusing on mastering JavaScript, TypeScript, and Node.js.</p>
