@@ -1,8 +1,6 @@
 <div align="center">
   <h1>🌟 Welcome to Colo's GitHub Profile! 🌟</h1>
 </div>
-<div align="center">
-  <h1 style="color: #4A90E2;">👨‍💻 Pablo Ariel Calderon - Colo 👨‍💻</h1>
   <div align="center">
 <img src="banner.png" width="700" height="320" style="margin-bot: 50px;"/>
 </div>
