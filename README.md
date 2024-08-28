@@ -6,7 +6,7 @@
   <div align="center">
 <img src="banner.png" width="700" height="320"/>
 </div>
-  <p style="font-size: 20px; margin-top: 20px;">🎂 22 years old | 🎓 Systems Engineering Student</p>
+  <p style="font-size: 20px;" style="margin-top: 20px;">🎂 22 years old | 🎓 Systems Engineering Student</p>
   <p>📚 Currently in my fourth year at <strong>Universidad Adventista del Plata</strong></p>
 </div>
 <div style="margin-top: 20px;">
