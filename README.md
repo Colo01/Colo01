@@ -1,10 +1,9 @@
 <div align="center">
-<img src="banner.png" width="700"/>
-</div>
-<div align="center">
   <h1>🌟 Welcome to Colo's GitHub Profile! 🌟</h1>
 </div>
-
+<div align="center">
+<img src="banner.png" width="700"/>
+</div>
 <div align="center">
   <h1 style="color: #4A90E2;">👨‍💻 Pablo Ariel Calderon - Colo 👨‍💻</h1>
   <p style="font-size: 20px;">🎂 22 years old | 🎓 Systems Engineering Student</p>
